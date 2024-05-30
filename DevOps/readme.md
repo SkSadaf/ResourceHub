@@ -371,6 +371,27 @@ DevOps is a combination of software development (Dev) and operations (Ops). It i
     </tr>
 </table>
 
+### Interview Prep
+
+<table width="100%">
+    <tr>
+        <th>Resource Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+       <td><a href="https://github.com/bregman-arie/devops-interview-questions">DevOps Interview Questions</a></td>
+       <td>A comprehensive list of DevOps interview questions and answers by Bregman Arie, covering various topics such as CI/CD, Docker, Kubernetes, and more.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.interviewbit.com/devops-interview-questions/">InterviewBit - DevOps Interview Questions</a></td>
+       <td>InterviewBit provides a collection of frequently asked DevOps interview questions and answers to help candidates prepare for interviews.</td>
+    </tr>
+    <tr>
+       <td><a href="https://www.edureka.co/blog/interview-questions/top-devops-interview-questions/">Edureka - DevOps Interview Questions</a></td>
+       <td>Edureka offers a list of DevOps interview questions along with detailed answers, covering topics like DevOps principles, CI/CD, Docker, Kubernetes, and more.</td>
+    </tr>
+</table>
+
 ### Conclusion
 
 DevOps is an innovative and transformative approach that bridges the gap between development and operations, fostering a culture of collaboration and continuous improvement. By integrating practices such as continuous integration, continuous deployment, and infrastructure as code, DevOps enables teams to deliver software faster and more reliably. The plethora of tools available, including Docker, Kubernetes, Jenkins, and Ansible, empowers teams to automate processes, enhance scalability, and improve efficiency. The DevOps community is vibrant and supportive, offering a wealth of resources such as tutorials, forums, and documentation to help practitioners at all levels. To truly master DevOps, regular practice and hands-on experience are crucial—engage in coding challenges, contribute to open-source projects, and work on real-world scenarios. This practical approach not only sharpens your skills but also unlocks numerous career opportunities in the ever-evolving field of software development and IT operations.
